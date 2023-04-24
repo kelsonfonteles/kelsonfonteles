@@ -1,4 +1,4 @@
-### Olá sou Kelson Fonteles, engenheiro de dados.
+### Olá sou Kelson Fonteles, arquiteto de dados.
 
 #### Alguns links interessantes
 
